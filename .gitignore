@@ -1,0 +1,11 @@
+# Ignorar todos os arquivos CSV
+*.csv
+
+# Ignorar pastas de ambiente virtual
+.venv/
+venv/
+env/
+
+# Outros arquivos comuns de Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
